@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "express": "^4.19.2",
+    "gsap": "^3.12.5",
+    "gsap-trial": "^3.12.5"
+  }
+}
